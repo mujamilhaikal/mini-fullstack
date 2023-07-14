@@ -12,6 +12,13 @@ cd mini-fullstack
 pnpm i
 ```
 
+### Get Free API From
+[FREE API KEY](https://rawg.io/apidocs)
+
+### Before You Run, Please Follow The Steps Below.
+- Rename ```.env.example``` to ```.env```
+- Paste your API key
+
 ### Build Mini Project
 
 ```bash
