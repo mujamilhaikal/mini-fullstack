@@ -3,7 +3,7 @@ Mini Project Full Stack App Using Vite, Tailwind CSS and etc.
 
 ### Installation
 
-The Nextra repository uses [PNPM Workspaces](https://pnpm.io/workspaces) To install dependencies, run
+Mini-Fullstack repository uses [PNPM Workspaces](https://pnpm.io/workspaces) To install dependencies, run
 `pnpm install` in the project root directory.
 
 ```bash
@@ -29,7 +29,7 @@ pnpm run dev
 
 ### Deployment 
 
-<p align="center" href="https://vitejs.dev/guide/static-deploy.html">
+<p align="left" href="https://vitejs.dev/guide/static-deploy.html">
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
     <img width="100" height="100" src="https://vitejs.dev/logo.svg" alt="Vite logo">
   </a>
