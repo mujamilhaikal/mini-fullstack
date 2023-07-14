@@ -1,6 +1,13 @@
 # Mini-Fullstack
 Mini Project Full Stack App Using Vite, Tailwind CSS and etc.
 
+### Before Begin, Please Follow The Steps Below.
+- Rename ```.env.example```  to  ```.env```
+- Paste your API key
+
+### Get Free API From
+[FREE API KEY](https://rawg.io/apidocs)
+  
 ### Installation
 
 Mini-Fullstack repository uses [PNPM Workspaces](https://pnpm.io/workspaces) To install dependencies, run
@@ -11,13 +18,6 @@ git clone https://github.com/mujamilhaikal/mini-fullstack
 cd mini-fullstack
 pnpm i
 ```
-
-### Get Free API From
-[FREE API KEY](https://rawg.io/apidocs)
-
-### Before You Run, Please Follow The Steps Below.
-- Rename ```.env.example``` to ```.env```
-- Paste your API key
 
 ### Build Mini Project
 
