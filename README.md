@@ -35,4 +35,4 @@ pnpm run dev
   </a>
 </p>
 
-Klik gambar untuk mengunjungi panduan Vite.js tentang Static Deploy.
+Click the image to visit the Vite.js guide on Static Deploy.
