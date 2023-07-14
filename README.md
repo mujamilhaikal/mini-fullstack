@@ -1,7 +1,7 @@
 # Mini-Fullstack
 Mini Project Full Stack App Using Vite, Tailwind CSS and etc.
 
-### Before Begin, Please Follow The Steps Below.
+### Before You Begin, Please Follow The Steps Below.
 - Rename ```.env.example```  to  ```.env```
 - Paste your API key
 
