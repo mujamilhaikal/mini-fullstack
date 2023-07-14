@@ -29,4 +29,6 @@ pnpm run dev
 
 ### Deployment 
 
-[![Vite Logo](https://vitejs.dev/logo.svg)](https://vitejs.dev/guide/static-deploy.html)
+[![Vite Logo](https://vitejs.dev/logo.svg){: width="100px" height="100px" alt="Vite Logo"}](https://vitejs.dev/guide/static-deploy.html)
+
+Klik gambar untuk mengunjungi panduan Vite.js tentang Static Deploy.
