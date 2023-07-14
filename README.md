@@ -29,8 +29,8 @@ pnpm run dev
 
 ### Deployment 
 
-<p align="left" href="https://vitejs.dev/guide/static-deploy.html">
-  <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
+<p align="left"">
+  <a href="https://vitejs.dev/guide/static-deploy.html" target="_blank" rel="noopener noreferrer">
     <img width="100" height="100" src="https://vitejs.dev/logo.svg" alt="Vite logo">
   </a>
 </p>
